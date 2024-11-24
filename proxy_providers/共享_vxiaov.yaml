@@ -43,6 +43,7 @@ proxies:
   - {name: 🇫🇷 SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:8080, server: 54.37.18.75, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
   - {name: 🇩🇪 VMESS-未知>德国-NF解锁德国自制剧-ChatGPT-TikTok-YouTube-172.66.168.173:8080, server: 172.66.168.173, port: 8080, type: vmess, uuid: 0d45efe7-99f1-4cc3-9e0e-66018c2097db, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: 63057454815634280367285269895900.v2line.net, network: ws, ws-opts: {path: /V2LINE-TELEGRAM-CHANNEL-VMESS-WS}}
   - {name: 🇫🇷 SS-法国-NF解锁法国自制剧-ChatGPT-TikTok-51.178.87.37:803, server: 51.178.87.37, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇸🇪 SS-瑞典-NF解锁瑞典自制剧-ChatGPT-TikTok-46.246.98.155:44013, server: 46.246.98.155, port: 44013, type: ss, cipher: chacha20-ietf-poly1305, password: UDcjYQ6Z6AIWxViZpqyOmO}
   - {name: 🇱🇹 SS-立陶宛>荷兰-NF解锁荷兰自制剧-ChatGPT-TikTok-YouTube-45.87.175.157:8080, server: 45.87.175.157, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u}
   - {name: 🇫🇷 VMESS-未知>法国-NF解锁法国自制剧-ChatGPT-TikTok-YouTube-104.17.237.149:8080, server: 104.17.237.149, port: 8080, type: vmess, uuid: b224029a-8614-445b-b6f7-7dbad13b0c75, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: 77744514375675832169113469546324.v2line.net, network: ws, ws-opts: {path: /V2LINE-TELEGRAM-CHANNEL-VMESS-WS}}
   - {name: 🇫🇷 SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:5499, server: 54.37.18.75, port: 5499, type: ss, cipher: aes-256-gcm, password: lGqs95QkFHo2NV}
